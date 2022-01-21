@@ -1,5 +1,5 @@
-# Titanic Classification Competition
+# Titanic Survivor Classification
 
-**Task**: use machine learning to predict whether or not a passenger on the Titanic survived.
+**Task**: Use machine learning to predict whether or not a passenger on the Titanic survived.
 
 Accuracy is the scoring metric used.
